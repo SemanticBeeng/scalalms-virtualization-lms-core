@@ -4,6 +4,8 @@ lib_managed
 .DS_Store
 local.properties
 project/boot
+project/.boot/
+project/.ivy/
 project/build/target
 target/
 test-out/
